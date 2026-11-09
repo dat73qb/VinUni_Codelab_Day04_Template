@@ -106,5 +106,95 @@
     "status": "open",
     "created_at": "2026-09-10T10:04:42.940366+07:00",
     "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-013",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:14:54.716891+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-014",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:16:08.920452+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-015",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:16:08.953018+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-016",
+    "customer_name": "Khách hàng",
+    "issue_description": "Chính sách bảo hành pin xe điện VinFast kéo dài bao lâu?",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-11-09T17:16:09.136618+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-017",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:16:53.231944+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-018",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:16:53.265936+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-019",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:17:52.320162+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-020",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:17:52.358039+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-021",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:39:48.278500+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20261109-022",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-11-09T17:39:48.319016+07:00",
+    "category": "general"
   }
 ]
